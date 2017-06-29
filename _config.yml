@@ -1,10 +1,10 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: Zhy Blog
+SEOTitle: 赵怀宇的博客 | Hux Blog
 header-img: img/home-bg.jpg
 email: 1641354921@gmail.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Front-End Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
+description: "目前.NET Web端开发，常使用 Mysql,Sqlserver，VisualStudio开发工具。学习过一些Python爬虫语言，接触过Redis，Kettle，Taskctl,了解一些Linux"
+keyword: "赵怀宇，ZhyBlog，.net开发，龙晓溪的男票"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
