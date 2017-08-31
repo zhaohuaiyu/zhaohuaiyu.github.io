@@ -1,11 +1,10 @@
-# Site settings
 title: Zhy Blog
-SEOTitle: 赵怀宇的博客 | Hux Blog
-header-img: img/home-bg.jpg
+SEOTitle: 赵怀宇的博客 | zhy Blog
+#header-img: img/home-bg.jpg
 email: 1641354921@gmail.com
 description: "目前.NET Web端开发，常使用 Mysql,Sqlserver，VisualStudio开发工具。学习过一些Python爬虫语言，接触过Redis，Kettle，Taskctl,了解一些Linux"
 keyword: "赵怀宇，ZhyBlog，.net开发，龙晓溪的男票"
-url: "https://huangxuan.me"              # your host, for absolute URL
+url: "https://zhaohuaiyu.gethub.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
@@ -87,43 +86,3 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
-
-
-
-# Friends
-friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "乱序",
-        href: "http://mida.re/"
-    },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
-        title: "天镶的博客",
-        href: "http://lingyu.wang/"
-    },{
-        title: "Luke 的自留地",
-        href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
-    }
-]
